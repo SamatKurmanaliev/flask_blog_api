@@ -1,5 +1,6 @@
 venv
 idea/
+.idea/
 # Created by https://www.toptal.com/developers/gitignore/api/flask,pycharm,django
 # Edit at https://www.toptal.com/developers/gitignore?templates=flask,pycharm,django
 
